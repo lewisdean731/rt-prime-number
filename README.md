@@ -1,1 +1,1 @@
-# rt-primenumber
+# rt-prime-number
