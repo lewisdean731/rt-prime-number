@@ -1,6 +1,6 @@
 # rt-prime-number
 
-This repository contains a jupyter notebook showing progressive examples for generating prime numbers up to 100. Each method is timed using `%%time`.
+This repository contains a jupyter notebook showing progressive examples for generating prime numbers up to 100. Each method is timed using `timeit`.
 
 ## Installation
 
