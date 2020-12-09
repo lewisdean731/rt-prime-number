@@ -1,3 +1,4 @@
 # packages go here
 notebook==6.1.5
 pandas==1.1.5
+matplotlib==3.3.3
